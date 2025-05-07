@@ -1,0 +1,1 @@
+- Este projeto foi desenvolvido para conclusão de uma disciplina de minha faculdade.
